@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App01.Facts", "App01.Facts\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C675DF28-8576-4985-A56B-764797FA214E}"
 	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
 		test.bat = test.bat
 	EndProjectSection
 EndProject
